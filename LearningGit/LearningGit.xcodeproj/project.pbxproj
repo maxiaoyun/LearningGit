@@ -12,6 +12,7 @@
 		CC4A85A1202BF4920050FFBA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC4A859F202BF4920050FFBA /* Main.storyboard */; };
 		CC4A85A3202BF4920050FFBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC4A85A2202BF4920050FFBA /* Assets.xcassets */; };
 		CC4A85A6202BF4920050FFBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC4A85A4202BF4920050FFBA /* LaunchScreen.storyboard */; };
+		CC4A85AE202C03910050FFBA /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC4A85AD202C03910050FFBA /* TextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CC4A85A2202BF4920050FFBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC4A85A5202BF4920050FFBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC4A85A7202BF4920050FFBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC4A85AD202C03910050FFBA /* TextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				CC4A859B202BF4920050FFBA /* AppDelegate.swift */,
 				CC4A859D202BF4920050FFBA /* ViewController.swift */,
+				CC4A85AD202C03910050FFBA /* TextViewController.swift */,
 				CC4A859F202BF4920050FFBA /* Main.storyboard */,
 				CC4A85A2202BF4920050FFBA /* Assets.xcassets */,
 				CC4A85A4202BF4920050FFBA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				CC4A859E202BF4920050FFBA /* ViewController.swift in Sources */,
 				CC4A859C202BF4920050FFBA /* AppDelegate.swift in Sources */,
+				CC4A85AE202C03910050FFBA /* TextViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
