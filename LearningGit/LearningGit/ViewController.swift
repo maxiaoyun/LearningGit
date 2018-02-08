@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print("我进入了VC文件")
         
         //我是来修改bug的，此时的我在master 上
-        
+        //这次我是bug2，在master上啊， 不要在出错了
         
         //那我就再来一点吧，反正也是试试玩的
     }
