@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         //我是为了测试只ADD，没commit
         print("我进入了VC文件")
         
+        //我是来修改bug的，此时的我在master 上
+        
+        
         //那我就再来一点吧，反正也是试试玩的
     }
     
