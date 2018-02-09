@@ -31,8 +31,6 @@ class ViewController: UIViewController {
         
         //这是什么？我不是要测试diff区别的吗,那就再来一次喽
         //呵呵哒 还是什么都没有，我就懵了
-        //不会是这样的吧
-        //看来是这个意思
     }
     
     
